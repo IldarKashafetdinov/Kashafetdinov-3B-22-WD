@@ -1,6 +1,4 @@
-def get_sum(a, b):
-    result = a + b
-    return f"Ответ: {result}"
+from task_6 import get_sum
 
 x = int(input("Введите первое число: "))
 y = int(input("Введите второе число: "))
