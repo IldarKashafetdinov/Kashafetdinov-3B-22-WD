@@ -8,3 +8,4 @@ class Student:
 
     def student_info(self):
         print(f"{self.name} {self.surname}, {self.age}, {self.profession}")
+
