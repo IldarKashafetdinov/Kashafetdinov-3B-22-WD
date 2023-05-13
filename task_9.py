@@ -13,4 +13,3 @@ rect1 = Rectangle(3, 6)
 rect2 = Rectangle(100, 4)
 print(rect1.square())
 print(rect2.square())
-
