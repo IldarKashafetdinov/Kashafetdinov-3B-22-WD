@@ -45,3 +45,4 @@ if __name__ == "__main__": #точка входа
     path_to_dir = str(input("Введите абсолютный путь до директории: "))
     paths_files = get_paths_files(path_to_dir)
     remove_duplicates(paths_files)
+
